@@ -1,0 +1,18 @@
+{
+  "CryptoPunks" : ["cryptopunks", "ETH"],
+  "Bored Ape Yacht Club" : ["boredapeyachtclub","SOL"],
+  "Otherdeed for Otherside" : ["otherdeed","ETH"],
+  "Sorare" : ["sorare", "ETH"],
+  "Mutant Ape Yacht Club" : ["mutant-ape-yacht-club","ETH"],
+  "Art Blocks" : ["art-blocks","ETH"],
+  "Doodles" : ["doodles-official","ETH"],
+  "Ethereum Name Service" : ["ens","ETH"],
+  "CLONE X" : ["clonex", "ETH"],
+  "Moonbirds" : ["proof-moonbirds", "ETH"],
+  "Azuki": ["azuki","ETH"],
+  "Meebits" : ["meebits","ETH"],
+  "Veefriends" : ["veefriends","ETH"],
+  "Bored Ape Kennel Club": ["bored-ape-kennel-club","ETH"],
+  "CyberBrokers":["cyberbrokers","ETH"]
+
+}
